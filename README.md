@@ -148,8 +148,6 @@ apple-stock-price-analysis/
 │
 ├── Apple_Stock_Price_Analysis.ipynb
 ├── README.md
-├── requirements.txt
-└── images/
 ```
 
 ---
@@ -164,23 +162,6 @@ pip install pandas numpy matplotlib yfinance statsmodels
 
 ---
 
-## Running the Project
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/yourusername/apple-stock-price-analysis.git
-```
-
-2. Navigate to the project directory.
-
-3. Install the required dependencies.
-
-4. Launch Jupyter Notebook.
-
-5. Execute the notebook from beginning to end.
-
----
 
 ## Results
 
